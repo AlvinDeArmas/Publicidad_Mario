@@ -1,0 +1,75 @@
+body
+{
+  font-family: Montserrat;
+  text-align: center;
+}
+p{
+  color: black;
+  font-weight: bold;
+}
+a{
+  font-weight: bold;
+}
+
+/*SECTION*/
+
+.Seccion-Color
+{
+    background-color: #7DE5ED;
+    color: white;
+    padding: 2%;
+}
+.Seccion-Blanca
+{
+  background-color: white;
+  color: #001253;
+}
+
+#Calificaciones{
+  padding: 2% 0 2%;
+  margin-bottom: 2%;
+}
+/*HEADINGS*/
+
+.big-heading
+{
+  color: #001253;
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight: 900;
+  margin-left: 5%;
+  margin-top: 7%;
+}
+.Section-heading
+{
+  font-size: 3rem;
+  line-height: 1.5rem;
+  font-weight: 900;
+  color: white;
+}
+
+.titulo-car{
+  color: #06283D;
+  font-size: 3rem;
+  line-height: 1.5rem;
+  font-weight: 900;
+  padding-bottom: 2%;
+}
+
+.headerpic
+{
+  position:static;
+  margin-right: 10%;
+  width: 85%;
+  height: 100%;
+
+}
+.fas{
+  color: black;
+  padding: 4%;
+}
+
+/*Imagenes*/
+.testpic{
+  margin: 5% 0 3%;
+}
